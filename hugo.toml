@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://slcpython-com-hugo.pages.dev/'
 languageCode = 'en-us'
 title = 'slcpython.com'
 theme = "hugo-theme-console"
