@@ -1,5 +1,5 @@
-baseURL = 'https://slcpython-com-hugo.pages.dev/'
+baseURL = 'https://slcpy.com'
 languageCode = 'en-us'
-title = 'slcpython.com'
+title = 'slcpy.com'
 theme = "hugo-theme-console"
 
